@@ -1,0 +1,22 @@
+{
+  "name": "find-it",
+  "version": "1.0.0",
+  "description": "A geolocator using lat long for any use case",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-finder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Andrew-1000/find-it.git"
+  },
+  "keywords": [
+    "find-it"
+  ],
+  "author": "Andrew-1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrew-1000/find-it/issues"
+  },
+  "homepage": "https://github.com/Andrew-1000/find-it#readme"
+}
